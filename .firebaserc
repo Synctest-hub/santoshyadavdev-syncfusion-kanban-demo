@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-demo-e5df0": {
+      "hosting": {
+        "kanban-demo": [
+          "angular-demo-e5df0"
+        ]
+      }
+    }
+  }
+}
